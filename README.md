@@ -1,5 +1,4 @@
 # Responsive Book Website
-## [Watch it on youtube](https://youtu.be/b7eJQSHhuO8)
 ### Responsive Book Website
 
 - Responsive Book Website Design Using HTML CSS & JavaScript
